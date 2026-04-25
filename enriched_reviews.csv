@@ -1,0 +1,26 @@
+review_id,date,rating,review,clean_review,sentiment,is_complaint,is_feature_request,month
+1,2024-01-05,1,App crashes every time I open it. Very frustrating!,app crashes every time open frustrating,Negative,True,False,2024-01
+2,2024-01-08,2,Keeps crashing on login. Please fix the login bug.,keeps crashing login please fix login bug,Neutral,True,True,2024-01
+3,2024-01-10,5,Love this app! Super smooth and fast. Highly recommend.,love app super smooth fast highly recommend,Positive,False,False,2024-01
+4,2024-01-12,4,Great features overall. Would love a dark mode option.,great features overall would love dark mode option,Positive,False,True,2024-01
+5,2024-01-15,3,Battery drains very quickly when the app is running in background.,battery drains quickly app running background,Positive,True,False,2024-01
+6,2024-01-18,1,Terrible update broke everything. Performance is awful now.,terrible update broke everything performance awful,Negative,True,False,2024-01
+7,2024-01-20,5,Best app I've used. The UI is beautiful and intuitive.,best app used beautiful intuitive,Positive,False,False,2024-01
+8,2024-02-01,2,Notifications not working. Please add notification customization.,notifications working please add notification customization,Neutral,False,True,2024-02
+9,2024-02-03,4,Really useful app! Please add export to PDF feature.,really useful app please add export pdf feature,Positive,False,True,2024-02
+10,2024-02-05,1,App is slow and laggy. Too many bugs. Uninstalling.,app slow laggy many bugs uninstalling,Neutral,True,False,2024-02
+11,2024-02-08,5,Amazing! Works flawlessly. Best purchase ever.,amazing works flawlessly best purchase ever,Positive,False,False,2024-02
+12,2024-02-10,3,Average app. Would be better with offline mode support.,average app would better offline mode support,Positive,False,True,2024-02
+13,2024-02-12,2,Constant crashes and freezes. Login is broken again.,constant crashes freezes login broken,Negative,True,False,2024-02
+14,2024-02-15,4,Good app but needs a widget for home screen.,good app needs widget home screen,Positive,False,True,2024-02
+15,2024-02-18,1,Data loss after update. Lost all my saved data. Horrible bug.,data loss update lost saved data horrible bug,Negative,True,False,2024-02
+16,2024-03-01,5,Fantastic design and performance. Love the new update!,fantastic design performance love new update,Positive,False,False,2024-03
+17,2024-03-04,3,OK app. Sometimes slow. Would appreciate multi-language support.,app sometimes slow would appreciate multi language support,Neutral,True,True,2024-03
+18,2024-03-07,2,"Poor battery life, app drains phone quickly. Needs fixing.",poor battery life app drains phone quickly needs fixing,Neutral,True,False,2024-03
+19,2024-03-10,5,Excellent! The sync feature works perfectly. Very happy!,excellent sync feature works perfectly happy,Positive,False,True,2024-03
+20,2024-03-15,1,Broken after latest update. Crashes immediately on startup.,broken latest update crashes immediately startup,Neutral,True,False,2024-03
+21,2024-03-18,4,Nice app. Please add calendar integration feature soon.,nice app please add calendar integration feature soon,Positive,False,True,2024-03
+22,2024-03-22,3,Decent but the search function is really slow and buggy.,decent search function really slow buggy,Neutral,True,False,2024-03
+23,2024-04-01,5,"Perfect! No bugs, super fast. Best app in this category.",perfect bugs super fast best app category,Positive,True,False,2024-04
+24,2024-04-05,2,App crashes when I try to upload photos. Very frustrating bug.,app crashes try upload photos frustrating bug,Negative,True,False,2024-04
+25,2024-04-10,1,"Absolutely terrible. Slow, buggy, crashes constantly.",absolutely terrible slow buggy crashes constantly,Negative,True,False,2024-04
